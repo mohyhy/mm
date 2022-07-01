@@ -16,7 +16,7 @@ lockfile==0.12.2
 lxml==4.5.2
 mock==4.0.2
 mypy_extensions==0.4.3
-numpy==1.20.3
+numpy==1.21.5
 ordereddict==1.1
 PasteScript==3.2.0
 protobuf==3.17.1
